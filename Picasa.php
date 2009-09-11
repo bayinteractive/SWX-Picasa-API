@@ -4,7 +4,7 @@
 	 * SWX Picasa API
 	 *
 	 * @copyright	2008 BayInteractive. All Rights Reserved. 
-	 * @link 	http://BayInteractive.com 
+	 * @link 	http://BayInteractive.com
 	 * 
 	**/
 	
